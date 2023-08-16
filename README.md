@@ -1,2 +1,2 @@
 # demo-folder
-This is a repository to work
+This is a repository to do the project work
