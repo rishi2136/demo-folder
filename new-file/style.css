@@ -6,3 +6,29 @@
 .content{
     background-color: burlywood;
 }
+
+.be-flex{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    background-color: blue;
+    height:240px;
+    width:400px;
+    margin:auto;
+ 
+}
+.md-box{
+    background-color: aquamarine;
+    width:50%;
+    height:200px;
+}
+.sm-box{
+    height:100px;
+    width:100px;
+    border:4px solid black;
+    border-radius: 50%;
+    background-color: #fff;
+}
